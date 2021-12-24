@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNI\Semester 5\Data Structure\Lab C++\Lab4QuickandRadix\Quick_Radix\Quick_Radix\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quick_Radix.vcxproj -> D:\UNI\Semester 5\Data Structure\Lab C++\Lab4QuickandRadix\Quick_Radix\Debug\Quick_Radix.exe
